@@ -1,2 +1,2 @@
 # random-target-ameretat
-NeuroMatch NeuroAI Ameretat
+NeuroMatch Academy NeuroAI Ameretat
